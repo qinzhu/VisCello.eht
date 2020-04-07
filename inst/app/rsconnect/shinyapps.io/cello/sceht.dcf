@@ -1,0 +1,12 @@
+name: sceht
+title: sceht
+username:
+account: cello
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 932257
+bundleId: 2977817
+url: https://cello.shinyapps.io/sceht/
+when: 1586209315.41687
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,47 @@
+Package: VisCello.eht
+Type: Package
+Title: Viscello for Visualization of Single Cell EHT Data
+Version: 1.0.0
+Author: Qin Zhu, Junhyong Kim, Nancy A. Speck, Kai Tan 
+Maintainer: Qin Zhu <zhuqin@pennmedicine.upenn.edu>
+Description: Viscello for Visualization of Single Cell EHT Data.
+Depends:
+    R (>= 3.1.0),
+    shiny,
+    shinyBS,
+    shinycssloaders,
+    devtools,
+    shinyWidgets,
+    htmlwidgets,
+    shinyBS,
+    R.utils,
+    purrr,
+    ggplot2,
+    RColorBrewer,
+    reshape2,
+    gridExtra,
+    shinythemes,
+    plotly,
+    heatmaply,
+    pheatmap,
+    DT,
+    dplyr,
+    openxlsx,
+    knitr,
+    monocle,
+    clusterProfiler,
+    ggraph,
+    tidygraph,
+    config,
+    data.table
+Imports:
+    limma,
+    irlba,
+    uwot,
+    org.Mm.eg.db, 
+    org.Hs.eg.db
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+biocViews: Software, Sequencing, RNASeq, GeneExpression, DifferentialExpression, AnnotationData
+RoxygenNote: 7.1.0
