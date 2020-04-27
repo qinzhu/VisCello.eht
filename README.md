@@ -8,11 +8,13 @@ About VisCello.eht
 
 This is a tool for interactive visualization of single cell data of endothelial to hematopoietic transition data from the following publication:
 
-Zhu, Q., Gao, P., Tober, J., Bennett, L., Chen, C., Uzun, Y., Li, Y., Mumau, M., Yu, W., He, B.,  Speck, N. and Tan. K, 2019. Developmental trajectory of pre-hematopoietic stem cell formation from endothelium. bioRxiv, p.848846.
+*Zhu, Q., Gao, P., Tober, J., Bennett, L., Chen, C., Uzun, Y., Li, Y., Mumau, M., Yu, W., He, B.,  Speck, N. and Tan. K, 2019. Developmental trajectory of pre-hematopoietic stem cell formation from endothelium. bioRxiv, p.848846.*
 
 You can download and install it as an R package, following intruction below.  
 
 You can also find online version of this tool here: https://cello.shinyapps.io/sceht/. Due to limit on computational resources with current server, we excluded expression of some genes in this online version of EHT explorer. You can explore the full version with VisCello.eht R package in this github repo. We apologize for this inconvenience.
+
+This tool only includes cells on the EHT trajectory for data exploration purpose. It does not include all cells we collected (e.g., cells from genetic perturbation experiments). You can download full dataset from GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137117.
 
 For using VisCello for other single cell data visualization, please check https://github.com/qinzhu/VisCello.
 
