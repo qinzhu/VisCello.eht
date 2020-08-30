@@ -33,7 +33,8 @@ Depends:
     ggraph,
     tidygraph,
     config,
-    data.table
+    data.table,
+    VisCello
 Imports:
     limma,
     irlba,

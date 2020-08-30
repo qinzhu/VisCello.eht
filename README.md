@@ -53,6 +53,7 @@ Please follow protocol listed below to install:
 
     ``` r
     install.packages("devtools") 
+    devtools::install_github("qinzhu/VisCello")
     devtools::install_local("VisCello.eht", force=T)
     ```
 
